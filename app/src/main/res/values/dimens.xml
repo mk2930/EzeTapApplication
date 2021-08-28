@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="mar_16dp">16dp</dimen>
+    <dimen name="txt_24sp">24sp</dimen>
+    <dimen name="mar_8dp">8dp</dimen>
+    <dimen name="mar_24dp">24dp</dimen>
+    <dimen name="mar_48dp">48dp</dimen>
+</resources>
